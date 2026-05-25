@@ -4,7 +4,7 @@
 Student | Programming Enthusiast | Learning Software Development
 
 ## Coding Profiles
-- LeetCode: https://leetcode.com/
+- LeetCode: https://leetcode.com/mukeshpotnuri
 - LinkedIn: https://www.linkedin.com/in/mukeshpotnuri
 - GitHub: https://github.com/mukeshpotnuri
 
