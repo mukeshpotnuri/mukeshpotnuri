@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Mukesh Potnuri 👋
 
-<!--
-**mukeshpotnuri/mukeshpotnuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Student | Programming Enthusiast | Learning Software Development
 
-Here are some ideas to get you started:
+## Coding Profiles
+- LeetCode: https://leetcode.com/
+- LinkedIn: https://www.linkedin.com/in/mukeshpotnuri
+- GitHub: https://github.com/mukeshpotnuri
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mukeshpotnuri)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/mukeshpotnuri)
+
+## Skills
+- Java
+- Python
+- Data Structures & Algorithms
+- HTML, CSS, JavaScript
+
+## Projects ( These are the Case Studies that I have done in my First Year )
+- Image Processing Projects (like Filter change, Image Collage tool with tkinker)
